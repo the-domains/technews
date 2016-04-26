@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.nytimes.com'
-  name: Nytimes
-  favicon: 'https://static01.nyt.com/favicon.ico'
-  domain: www.nytimes.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.nytimes.com/2016/04/26/technology/charter-time-warner-cable-bright-house-cable-deal.html?_r=0'
+inLanguage: en
 keywords:
   - broadband
   - streaming
@@ -17,8 +15,11 @@ keywords:
   - approval
   - impose
   - dish
-description: "WASHINGTON - Federal regulators are expected to announce on Monday that they have approved Charter Communications' acquisitions of Time Warner Cable and Bright House Networks in deals valued at $88 billion, according to people with knowledge of the review who spoke on condition of anonymity."
-inLanguage: en
+description: ' So ends Time Warners Reign of awesomeness.. Data caps will be comi'
+datePublished: '2016-04-26T03:39:46.640Z'
+dateModified: '2016-04-26T03:38:00.342Z'
+author: []
+related: []
 app_links:
   - url: 'nytimes://reader/id/100000004359502'
     type: android
@@ -54,18 +55,20 @@ app_links:
     package: com.nytimes.android
     namespace: google
     type: android
-isBasedOnUrl: 'http://www.nytimes.com/2016/04/26/technology/charter-time-warner-cable-bright-house-cable-deal.html?_r=0'
 title: Charter Communications Deal for Time Warner Cable Said to Be Approved
-datePublished: '2016-04-26T03:36:23.279Z'
-dateModified: '2016-04-26T03:35:14.792Z'
-starred: false
 sourcePath: _posts/2016-04-26-charter-communications-deal-for-time-warner-cable-said-to-be.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Nytimes
+  domain: www.nytimes.com
+  url: 'http://www.nytimes.com'
+  favicon: 'https://static01.nyt.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+So ends Time Warners Reign of awesomeness.. Data caps will be comi
+
 <article style=""><h1>Charter Communications Deal for Time Warner Cable Said to Be Approved</h1><p>WASHINGTON - Federal regulators are expected to announce on Monday that they have approved Charter Communications' acquisitions of Time Warner Cable and Bright House Networks in deals valued at $88 billion, according to people with knowledge of the review who spoke on condition of anonymity.</p><img src="https://static01.nyt.com/images/icons/t_logo_291_black.png" /></article>
