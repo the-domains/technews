@@ -4,7 +4,7 @@
         <description><![CDATA[News]]></description>
         <link>https://thegrid.ai/technews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 08:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 08:33:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/technews/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Charter Communications Deal for Time Warner Cable Said to Be Approved]]></title>
@@ -26,13 +26,6 @@
             <link>http://www.wired.com/2016/04/office-technology-assessment-congress-clueless-tech-killed-tutor/</link>
             <guid isPermaLink="false">c225d73c-37d4-4933-a5bd-a8a4e545c203</guid>
             <pubDate>Tue, 26 Apr 2016 03:45:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charter Communications Deal for Time Warner Cable Said to Be Approved]]></title>
-            <description><![CDATA[<article><h1>Charter Communications Deal for Time Warner Cable Said to Be Approved</h1><p> So ends Time Warners Reign of awesomeness.. Data caps will be comi</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75dd5a0edf4bd872918402ed512deb6bbba12418.png"></article>]]></description>
-            <link>http://www.nytimes.com/2016/04/26/technology/charter-time-warner-cable-bright-house-cable-deal.html?_r=0</link>
-            <guid isPermaLink="false">b5a7738e-5b37-4b7d-8750-30e15367fd01</guid>
-            <pubDate>Tue, 26 Apr 2016 03:39:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
